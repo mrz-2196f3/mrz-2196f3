@@ -46,7 +46,7 @@ I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and b
 ---
 
 ## 🚀 Featured Projects  
-[![ZCamera Android](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=repo1&theme=radical)](https://github.com/mrz-2196f3/ZCamera)   
+[![ZCamera Android](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=ZCamera&theme=radical)](https://github.com/mrz-2196f3/ZCamera)   
 [![GithubasDB Web](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=GithubDB-Demo&theme=radical)](https://github.com/mrz-2196f3/GithubDB-Demo)
 
 ---
