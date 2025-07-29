@@ -14,8 +14,8 @@ I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and b
 ---
 
 ## 📊 GitHub Stats  
-![MRZ's Github Stats](https://github-readme-stats.vercel.app/api?username=mrz-2196f3&show_icons=true&theme=gruvbox&hide_border=true)  
-![MRZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrz-2196f3&layout=compact&theme=gruvbox&hide_border=true)  
+![MRZ's Github Stats](https://github-readme-stats.vercel.app/api?username=mrz-2196f3&show_icons=true&theme=onedark&hide_border=true)  
+![MRZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrz-2196f3&layout=compact&theme=onedark&hide_border=true)  
 
 ---
 
@@ -46,13 +46,13 @@ I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and b
 ---
 
 ## 🚀 Featured Projects  
-[![ZCamera Android](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=ZCamera&theme=gruvbox)](https://github.com/mrz-2196f3/ZCamera)   
-[![GithubasDB Web](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=GithubDB-Demo&theme=gruvbox)](https://github.com/mrz-2196f3/GithubDB-Demo)
+[![ZCamera Android](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=ZCamera&theme=onedark)](https://github.com/mrz-2196f3/ZCamera)   
+[![GithubasDB Web](https://github-readme-stats.vercel.app/api/pin/?username=mrz-2196f3&repo=GithubDB-Demo&theme=onedark)](https://github.com/mrz-2196f3/GithubDB-Demo)
 
 ---
 
 ## 📈 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=mrz-2196f3&theme=gruvbox&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mrz-2196f3&theme=onedark&hide_border=true)  
 
 ---
 
