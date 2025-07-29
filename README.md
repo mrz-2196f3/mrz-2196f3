@@ -6,16 +6,16 @@
 ## 📌 About Me  
 I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and backend development**. I love building scalable applications, contributing to open-source, and exploring new technologies.  
 
-🔭 **Currently working on:** [Your Current Project]  
-🌱 **Learning:** [Next.js, Kubernetes, etc.]  
-💬 **Ask me about:** Android Dev, APIs, or Game Design!  
-⚡ **Fun fact:** I once built a [cool project] in just 24 hours!  
+🔭 **Currently working on:** FxZLab (Improving my DDoS tool)  
+🌱 **Learning:** ``About WAF Bypass to penetrate advanced attacks and to test vulnerability via JAVA(android)``  
+💬 **Ask me about:** Android Dev, APIs, Android Security, or Game Design!  
+⚡ **Fun fact:** I once built an ``Android`` **DDoS Tool** in just 24 hours!  
 
 ---
 
 ## 📊 GitHub Stats  
-![My Stats](https://github-readme-stats.vercel.app/api?username=mrz-2196f3&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrz-2196f3&layout=compact&theme=radical&hide_border=true)  
+![MRZ's Github Stats](https://github-readme-stats.vercel.app/api?username=mrz-2196f3&show_icons=true&theme=radical&hide_border=true)  
+![MRZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrz-2196f3&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
