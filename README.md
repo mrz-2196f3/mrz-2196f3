@@ -63,9 +63,4 @@ I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and b
 
 ---
 
-### 🎶 Currently Listening  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31mjy7ztkg6vjkd55k7rzskt2h3a&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f)](https://open.spotify.com/playlist/0XejTpvIdSrHhc4dIHSo0r)
-
----
-
-⭐ **© MRZ 2025-2026** ⭐  
+```© MRZ 2025-2026``` 
