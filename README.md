@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer** with expertise in **mobile, web, and b
 
 ### 📫 How to Reach Me  
 - **Email:** info.mrz.dev@gmail.com  
-- **Facebook:** [mrz2196f3](https://www.facebook.com/mrz2196f3)  
+- **Facebook:** [mrz2196f3](https://www.facebook.com/0)  
 - **Portfolio:** [HIDDEN](https://zflux.com)  
 
 ---
